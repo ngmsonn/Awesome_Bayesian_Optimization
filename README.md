@@ -10,6 +10,7 @@ A curated list of awesome lists on Bayesian Optimization.
 
 ## Libraries
 * [baybe](https://github.com/emdgroup/baybe)
+* [Experimental Design via Bayesian Optimization edbo](https://github.com/b-shields/edbo)
 
 
 ## Others
