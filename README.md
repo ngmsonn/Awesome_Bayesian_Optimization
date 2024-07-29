@@ -6,7 +6,7 @@ A curated list of awesome lists on Bayesian Optimization.
 
 ## Papers
 * [Bayesian optimization with known experimental and design constraints for chemistry applications](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00028h)
-  
+* [Bayesian reaction optimization as a tool for chemical synthesis](https://doyle.chem.ucla.edu/wp-content/uploads/2021/02/58.-Bayesian-reaction-optimization-as-a-tool-for-chemical-synthesis.pdf)
 
 ## Others
 * [Youtube - Gaussian Process Summer School](https://www.youtube.com/@gaussianprocesssummerschoo7738/playlists)
