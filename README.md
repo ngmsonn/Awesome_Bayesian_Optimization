@@ -10,3 +10,5 @@ A curated list of awesome lists on Bayesian Optimization.
 
 ## Others
 * [Youtube - Gaussian Process Summer School](https://www.youtube.com/@gaussianprocesssummerschoo7738/playlists)
+* [Youtube - Tomás Müller- Gaussian Process Fitting: let the data guide you!| PyData Global 2020](https://www.youtube.com/watch?v=eokV-P8Osms&list=PLG2mFGwiVyKJ56HPoLz-GLX6H-aFlcatv)
+  
