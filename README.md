@@ -21,4 +21,5 @@ A curated list of awesome lists on Bayesian Optimization.
 * [Youtube - Tomás Müller- Gaussian Process Fitting: let the data guide you!| PyData Global 2020](https://www.youtube.com/watch?v=eokV-P8Osms&list=PLG2mFGwiVyKJ56HPoLz-GLX6H-aFlcatv)
 * [Youtube - Roman Garnett - Bayesian Optimization](https://www.youtube.com/watch?v=wZODGJzKmD0)
 * [Youtube - Bayesian Optimization - Math and Algorithm Explained](https://www.youtube.com/watch?v=ECNU4WIuhSE&t=0s)
-* [Youtube - A tutorial on Bayesian optimization with Gaussian processes](https://www.youtube.com/watch?v=VWLI1jthE24)
+* [Youtube - A tutorial on Bayesian optimization with Gaussian processes](https://www.youtube.com/watch?v=VWLI1jthE24)\
+* [Youtube - Efficient Exploration in Bayesian Optimization – Optimism and Beyond by Andreas Krause](https://www.youtube.com/watch?v=p_PK1CuEuAE)
