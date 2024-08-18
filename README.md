@@ -20,7 +20,7 @@ A curated list of awesome lists on Bayesian Optimization.
 * [How to Implement Bayesian Optimization from Scratch in Python](https://machinelearningmastery.com/what-is-bayesian-optimization/)
 * [Step-by-Step Guide to Bayesian Optimization: A Python-based Approach](https://medium.com/@okanyenigun/step-by-step-guide-to-bayesian-optimization-a-python-based-approach-3558985c6818)
 * [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/?source=post_page-----a1a09989c6d8--------------------------------)
-
+* [Mango: A new way to do Bayesian optimization in Python](https://towardsdatascience.com/mango-a-new-way-to-make-bayesian-optimisation-in-python-a1a09989c6d8)
 ## Others
 * [Youtube - Gaussian Process Summer School](https://www.youtube.com/@gaussianprocesssummerschoo7738/playlists)
 * [Youtube - Tomás Müller- Gaussian Process Fitting: let the data guide you!| PyData Global 2020](https://www.youtube.com/watch?v=eokV-P8Osms&list=PLG2mFGwiVyKJ56HPoLz-GLX6H-aFlcatv)
