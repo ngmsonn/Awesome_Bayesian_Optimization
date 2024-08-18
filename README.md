@@ -28,3 +28,4 @@ A curated list of awesome lists on Bayesian Optimization.
 * [Youtube - Bayesian Optimization - Math and Algorithm Explained](https://www.youtube.com/watch?v=ECNU4WIuhSE&t=0s)
 * [Youtube - A tutorial on Bayesian optimization with Gaussian processes](https://www.youtube.com/watch?v=VWLI1jthE24)\
 * [Youtube - Efficient Exploration in Bayesian Optimization – Optimism and Beyond by Andreas Krause](https://www.youtube.com/watch?v=p_PK1CuEuAE)
+* [Github -  Bayesian optimization with Gaussian processes](https://github.com/thuijskens/bayesian-optimization)
