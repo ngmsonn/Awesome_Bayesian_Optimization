@@ -16,6 +16,8 @@ A curated list of awesome lists on Bayesian Optimization.
 * [Experimental Design via Bayesian Optimization edbo](https://github.com/b-shields/edbo)
 * [Bayesian Optimization](https://github.com/bayesian-optimization/BayesianOptimization)
 
+## Blogs
+* [How to Implement Bayesian Optimization from Scratch in Python](https://machinelearningmastery.com/what-is-bayesian-optimization/)
 
 ## Others
 * [Youtube - Gaussian Process Summer School](https://www.youtube.com/@gaussianprocesssummerschoo7738/playlists)
