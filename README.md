@@ -14,6 +14,7 @@ A curated list of awesome lists on Bayesian Optimization.
 * [BoTorch](https://botorch.org/)
 * [scikit-optimize](https://scikit-optimize.github.io/stable/index.html)
 * [Experimental Design via Bayesian Optimization edbo](https://github.com/b-shields/edbo)
+* [Bayesian Optimization](https://github.com/bayesian-optimization/BayesianOptimization)
 
 
 ## Others
